@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "name": "Alice Johnson",
+    "email": "alice.johnson@example.com",
+    "address": "42 Green Street, Lagos",
+    "phone": "+2348012345678"
+  },
+  {
+    "id": 2,
+    "name": "Michael Smith",
+    "email": "michael.smith@example.com",
+    "address": "12 Oak Avenue, Abuja",
+    "phone": "+2348098765432"
+  },
+  {
+    "id": 3,
+    "name": "Grace Okoro",
+    "email": "grace.okoro@example.com",
+    "address": "8 Palm Crescent, Port Harcourt",
+    "phone": "+2347087654321"
+  },
+  {
+    "id": 5,
+    "name": "John Smith",
+    "email": "john.smith@example.com",
+    "address": "123 Main St, New York, NY 10001",
+    "phone": "212-555-0123"
+  },
+  {
+    "id": 5,
+    "name": "marcel",
+    "email": "marcel@example.com",
+    "address": "cyohercrescent",
+    "phone": "0703877567554"
+  },
+  {
+    "id": 6,
+    "name": "Marcel Ekpe",
+    "email": "marcel.ekpe@example.com",
+    "address": "123 Demo St, Anytown",
+    "phone": "+1-555-0100"
+  },
+  {
+    "id": 7,
+    "name": "Henry",
+    "email": "henry@example.com",
+    "address": "cyphercrescent",
+    "phone": "0906546982645"
+  },
+  {
+    "id": 8,
+    "name": "Bob",
+    "email": "bob@example.com",
+    "address": "woji, portharcourt",
+    "phone": "097575522759"
+  }
+]
